@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x079ff913dE51Bd11a2FEF63976f4505f9c62a470",
+  "SCAN_LINK": "https://etherscan.io/address/0x079ff913de51bd11a2fef63976f4505f9c62a470",
+  "NETWORK": {
+    "NAME": "Ethereum",
+    "SYMBOL": "Ether",
+    "ID": 1
+  },
+  "NFT_NAME": "Nebula birds",
+  "SYMBOL": "Bird",
+  "MAX_SUPPLY": 999,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
